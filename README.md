@@ -1,3 +1,5 @@
+<img width="1280" height="800" alt="Screenshot 2026-05-14 at 22 55 56" src="https://github.com/user-attachments/assets/2000cca7-37cd-4001-9ae0-17e910c26cfa" />
+<img width="1280" height="800" alt="Screenshot 2026-05-14 at 22 55 59" src="https://github.com/user-attachments/assets/b26fdaa8-82de-4890-86dd-fe0f06765cca" />
 # KickStats – Football Stats Tracker
 
 A full-stack MERN web application where users can browse football teams and players, view stats, and follow their favourites.
